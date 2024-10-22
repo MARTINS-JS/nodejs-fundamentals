@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img alt="Ignite" src="https://brandslogos.com/wp-content/uploads/images/large/nodejs-logo.png" style="height: 50px; width: 200px;"/>
+    <img alt="Ignite" src=".github/logo.png"/>
   </a>
 </div>
 
