@@ -6,7 +6,7 @@
 
 ---
 
-> ### **Fundamentos do Node.js**
+> ### **Iniciando com Node.js**
 
 <div style="">
   <p>
