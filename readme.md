@@ -9,8 +9,17 @@
 > ### **Iniciando com Node.js**
 
 <div style="">
-  <p>
-    Estudando!
+  <p>  
+    Nesse módulo, aprendi a base necessária para usar o Node.js, pois foram abordados alguns assuntos que vão desde a instalação até a criação de um servidor. De forma geral, configuramos o package.json para importar o módulo http usando import/export, pois por padrão o Node.js usa o CommonJS, o famoso require(), para as importações dos módulos.
+  </p>
+  <p>  
+    Uma informação que achei bacana foi a possibilidade de informar ao Node.js quais dos módulos usados na aplicação são nativos dele. Como o Node.js é uma ferramenta que executa JavaScript fora do navegador, algumas APIs usadas no JavaScript para o desenvolvimento web não são possíveis de acessar, como window ou document.
+  </p>
+  <p> 
+    No decorrer das aulas, entendi que o Node.js é amplamente usado para o desenvolvimento de APIs REST, um conjunto de regras que permite que sistemas de software se comuniquem entre si via HTTP. Essa comunicação é feita através de conceitos que o professor não abordou neste módulo, mas mencionou brevemente.
+  </p>
+  <p>  
+    Durante a construção do servidor, conheci um pouco sobre os parâmetros req e res. Também utilizei o HTTPie, que é uma CLI para verificar as chamadas HTTP pelo terminal. Além disso, criamos um script no package.json para iniciar o servidor e reiniciá-lo sempre que uma alteração é feita.
   </p>
 </div>
 
